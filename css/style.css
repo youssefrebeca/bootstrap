@@ -24,6 +24,7 @@ body{
 }
 a{
     color: #74513D !important;
+    font-size: 20px;
 }
 
 .container__txt{
@@ -42,4 +43,31 @@ a{
     width: 100%;
     background-color: #d9d9d9 !important;
     border-radius: 4px;
+}
+
+
+h1 {
+    margin-bottom: 40px
+}
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px
 }
